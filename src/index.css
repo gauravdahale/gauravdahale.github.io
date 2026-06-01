@@ -1,0 +1,4 @@
+/* React-specific resets and utilities */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
